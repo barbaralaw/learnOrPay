@@ -1,5 +1,5 @@
 # Learn or Pay #
-### :carrot: Because sometimes a carrot needs a stick :moneybag ###
+### :carrot: Because sometimes a carrot needs a stick :moneybag: ###
 
 ## :question: About the Project ##
 
