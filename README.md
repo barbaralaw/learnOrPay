@@ -3,7 +3,7 @@
 
 ## :question: About the Project ##
 
-I've always pursued varied and lofty learning goals, but ~~sometimes~~ often life happens can can throw me off the path. A little bit of a nudge or encouragement back to the habits and practices that will take me to my goal is often needed, and sometimes that nudge needs to be more like a poke in the side - enter **Learn or Pay**.
+I've always pursued varied and lofty learning goals, but ~~sometimes~~ often life happens and it can throw me off the path. A little bit of a nudge or encouragement back to the habits and practices that will take me to my goal is often needed, and sometimes that nudge needs to be more like a poke in the side - enter **Learn or Pay**.
 
 The premise is simple - either you spend time learning or you pay for it. The app will alert users when it is time to study their materials (at intervals and times pre-determined by the users), and if they can't or won't study at those times then a payment will automatically be sent to a person or account of their choice.
 
