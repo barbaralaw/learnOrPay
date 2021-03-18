@@ -1,6 +1,8 @@
 # Learn or Pay #
 ### :carrot: Because sometimes a carrot needs a stick :moneybag: ###
 
+##[Learn or Pay project live](https://learnorpay.carrd.co/)
+
 ## :question: About the Project ##
 
 I've always pursued varied and lofty learning goals, but ~~sometimes~~ often life happens and it can throw me off the path. A little bit of a nudge or encouragement back to the habits and practices that will take me to my goal is often needed, and sometimes that nudge needs to be more like a poke in the side - enter **Learn or Pay**.
@@ -19,4 +21,4 @@ Future stages will allow users to add study materials to their portal, select st
 
 ## :calendar: Check back soon! ##
 
-This project will be my focus for the coming weeks, so please check back here or on my [twitter](https://twitter.com/blawblawLaw). :blush:
+This project will be my focus for the coming weeks, so please check back here, shoot me a message through the [live site](https://learnorpay.carrd.co/), or on my [twitter](https://twitter.com/blawblawLaw). :blush:
