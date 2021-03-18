@@ -1,7 +1,7 @@
 # Learn or Pay #
 ### :carrot: Because sometimes a carrot needs a stick :moneybag: ###
 
-##[Learn or Pay project live](https://learnorpay.carrd.co/)
+##[Learn or Pay project live](https://learnorpay.carrd.co/)##
 
 ## :question: About the Project ##
 
