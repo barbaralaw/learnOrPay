@@ -1,0 +1,28 @@
+{
+  "name": "learnorpay",
+  "version": "1.0.0",
+  "description": "[Learn or Pay project live](https://learnorpay.carrd.co/)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barbaralaw/learnOrPay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barbaralaw/learnOrPay/issues"
+  },
+  "homepage": "https://github.com/barbaralaw/learnOrPay#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
