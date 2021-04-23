@@ -15,7 +15,7 @@ Tech Used: React, JavaScript, HTML/CSS
 
 **Learn or Pay** is still in its infant stage, but I intend to create and release it in stages, adding additional functionality and features as a I go.
 
-Stage 1: Launch landing page with interest list sign-up (in progress, eta 3/25)
+Stage 1: Launch landing page with interest list sign-up
 
 Future stages will allow users to add study materials to their portal, select study reminder times and frequencies, payment amounts and target accounts, notification options, import study materials from other sources, and other future features.
 
